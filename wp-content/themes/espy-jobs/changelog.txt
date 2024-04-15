@@ -1,0 +1,20 @@
+2024 February 16 - Version 1.0.11 🦉
+* FIXED: Minor Issues fixed
+
+2024 January 24 - Version 1.0.10 🦉
+* FIXED: Minor Issues fixed
+
+2023 July 29 - Version 1.0.9 🦉
+* FIXED: Minor Issues fixed
+
+2022 November 27 - Version 1.0.8 🦁
+* FIXED: Minor Issues fixed
+
+2022 September 28 - Version 1.0.7 🐞
+* FIXED: Minor Issues fixed
+
+2022 July 17 - Version 1.0.4 🐞
+* FIXED: Minor Issues fixed
+
+2022 July 15 - Version 1.0.0 🦎
+* Initial release

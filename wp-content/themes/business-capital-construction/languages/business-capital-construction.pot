@@ -1,0 +1,104 @@
+# Copyright (C) {2022} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Capital Construction 1.0.0\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2022-06-22 08:25:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:40
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:45
+msgid "Header Style Default"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:49
+msgid "Header Style Construction"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:60
+msgid "Header Top Color"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:63
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/business-capital-construction-header-options.php:64
+msgid "Light"
+msgstr ""
+
+#: template-parts/header/header-one.php:40
+#: template-parts/header/header-one.php:69
+#: template-parts/header/header-seven.php:34
+#: template-parts/header/header-seven.php:65
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/header/header-seven.php:21
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-seven.php:117
+msgid "Call Us"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Business Capital Construction"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/business-capital-construction/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Business Capital Construction is a unique flexible, Construction and "
+"Business WordPress theme with fresh design. This theme is suitable for all "
+"kinds of construction websites including design and architectural firms. It "
+"is a child theme of our multipurpose theme Business Capital. It inherits "
+"features of its parent theme Business Capital but design wise it is quite "
+"different as it focuses more on construction business. This responsive "
+"theme comes with powerful features and functionalities like Slider, Hero "
+"Content, Featured Grid, Testimonials, Contact form, What we do and much "
+"more options. With these top-notch features you can easily turn this "
+"construction theme to any other business website too. For reference to "
+"build your website you can always look at the demo.Download Business "
+"Capital today and build your website. Visit "
+"https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/business-capital-construction for "
+"theme documentation and "
+"https://fireflythemes.com/preview/?demo=business-capital-construction-free "
+"for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
